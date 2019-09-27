@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User>
+    <users id='1' name="1">
+        <name>zs1</name>
+        <age>22</age>
+        <sex>1</sex>
+        <c>你说的</c>
+            
+    </users>
+    <users id='2' name="1">
+        <name>zs2</name>
+        <age>22</age>
+        <sex>男</sex>
+        <c>你说的</c>
+    </users>
+    <users id='3' name="1">
+        <name>张三</name>
+        <age>202</age>
+        <sex>2</sex>
+        <c>你说的</c>
+    </users>
+    <users id='4' name="1">
+        <name>真是</name>
+        <age>212</age>
+        <sex>男</sex>
+        <c>你说的</c>
+    </users>
+    <users id='5' name="1">
+        <name>zs5</name>
+        <age>122</age>
+        <sex>女</sex>
+        <c>你说的</c>
+    </users>
+
+</User>

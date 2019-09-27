@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pages>
+	<page name="org.webdriver.webEasy.pageObject.LoginPage" value="app管理后台登录页面">
+		<locator by="id" value="mobilephone" desc="登录页面用户名输入框">用户名</locator>
+		<locator by="id" value="password" desc="登录页面密码输入框">密码</locator>
+		<locator by="xpath" value="//*[@id='login']" desc="登录页面登录按钮">登录</locator>
+		<locator by="xpath" value="//*[@id='reset']" desc="登录页面重置按钮">重置</locator>
+	</page>
+	<page name="org.webdriver.webEasy.pageObject.RegisterPage" value="app管理后台注册页面">
+		<locator by="id" value="mobilephone" desc="注册页面用户名输入框">用户名</locator>
+		<locator by="id" value="password" desc="注册页面密码输入框">密码</locator>
+		<locator by="id" value="pwdconfirm" desc="注册页面重复密码输入框">重复密码</locator>
+		<locator by="xpath" value="//*[@id='signup-button']" desc="注册页面登录按钮">注册</locator>
+		<locator by="xpath" value="//*[@id='reset']" desc="注册页面重置按钮">重置</locator>
+	</page>
+</pages>
